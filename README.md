@@ -1,7 +1,6 @@
 # Case study data: three-stage resilience planning with mobile energy storage
 
-Data for the case studies of the paper submitted to the *Journal of Energy Storage* (manuscript EST-D-26-07142)
-on the modified IEEE 33-bus and IEEE 123-bus distribution systems.
+Case study data for the IEEE 33-bus and IEEE 123-bus distribution systems used in the paper "Adaptive Three-Stage Resilience Planning for Distribution Systems with Pre-Event Resource Provisioning and Mobile Energy Storage Coordination", submitted to the *Journal of Energy Storage* (manuscript EST-D-26-07142).
 
 ## Files
 
